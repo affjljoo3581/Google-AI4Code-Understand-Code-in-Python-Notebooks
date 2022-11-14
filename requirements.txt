@@ -1,0 +1,11 @@
+numpy
+omegaconf
+pandas
+pytorch_lightning
+scikit_learn
+torch
+tqdm
+fasttext
+sentencepiece
+transformers
+wandb
